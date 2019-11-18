@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Phatvv\\Contact": "src/"
+            "Phatvv\\Contact\\": "src/"
         }
     }
 }
